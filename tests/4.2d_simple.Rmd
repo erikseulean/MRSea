@@ -182,9 +182,9 @@ pred_link + link_read + plot_layout(guides = 'collect')
 
 ```{r pred_compare, echo=FALSE, results='asis'}
 
-cat("Sum of all predictions on response scale:", sum(preds_out), "this should be 2156.822. \n\n")
+cat("Sum of all predictions on response scale:", sum(preds_out), "this should be 2157.409. \n\n")
 
-cat("Sum of all predictions on link scale:", sum(preds_out_link), "this should be -4961.709. \n\n")
+cat("Sum of all predictions on link scale:", sum(preds_out_link), "this should be -4917.971. \n\n")
 
 cat("Time for training:", round(total_time, 1), "Original time: 7.7. \n\n")
 
@@ -197,6 +197,7 @@ for (ii in 1:length(salsa2dlog)){
     n_fits <- n_fits + 1
   }
 }
+
 cat("Number of model fits:", n_fits, "Original model fits: 296")
 
 ```
@@ -218,13 +219,13 @@ kable(sum_results_read_in, digits=3, caption="Coefficients from saved model")
 
 ```{r sum_compare, echo=FALSE, results='asis'}
 
-cat("Sum of all estimates:", sum(sum_results$coefficients[,1]), "this should be 18.79781. \n\n")
+cat("Sum of all estimates:", sum(sum_results$coefficients[,1]), "this should be 21.31441. \n\n")
 
-cat("Sum of all robust SE:", sum(sum_results$coefficients[,3]), "this should be 78.3861. \n\n")
+cat("Sum of all robust SE:", sum(sum_results$coefficients[,3]), "this should be 121.7394. \n\n")
 
 cat("Standard errors are equal to robust standard errors:", sum(sum_results$coefficients[,2])==sum(sum_results$coefficients[,3]), "\n\n")
 
-cat("Dispersion:", sum_results$dispersion, "this should be 13.44141. \n\n")
+cat("Dispersion:", sum_results$dispersion, "this should be 13.72587. \n\n")
 
 ```
 
@@ -234,7 +235,7 @@ cat("Dispersion:", sum_results$dispersion, "this should be 13.44141. \n\n")
 
 mean_sum_sq <- sum((predictData$truth.re - preds_out)^2)/nrow(predictData)
 
-cat("Mean square error:", mean_sum_sq, "this should be 0.8052403. \n\n")
+cat("Mean square error:", mean_sum_sq, "this should be 0.8129643. \n\n")
 
 mean_sum_sq_data <- sum((data$response - predict.gamMRSea(newdata=data, object=salsa2dOutput$bestModel))^2)/nrow(data)
 
@@ -252,7 +253,7 @@ cat("Mean square error to truth seen:", mean_sum_sq_seen, "this should be 0.8860
 
 mean_sum_sq_unseen <- sum((predictData$truth.re[!rows_seen] - preds_out[!rows_seen])^2)/nrow(predictData[!rows_seen,])
 
-cat("Mean square error to truth unseen:", mean_sum_sq_unseen, "this should be 0.7833794. \n\n")
+cat("Mean square error to truth unseen:", mean_sum_sq_unseen, "this should be 0.7894439. \n\n")
 
 
 ```
