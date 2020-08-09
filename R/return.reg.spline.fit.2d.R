@@ -61,6 +61,8 @@
   # }
   # 
   # split out spline parameter object into its pieces
+  print("speed up branch")
+  
   knotDist <- splineParams[[1]]$knotDist
   radii <- splineParams[[1]]$radii
   dists <- splineParams[[1]]$dist
