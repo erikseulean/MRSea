@@ -230,18 +230,6 @@ for (ii in 1:length(salsa2dlog)){
 }
 cat("Number of model fits:", n_fits, "Original model fits: 227")
 
-salsa2dlog <- read.table('salsa2d.log')
-n_fits <- 0
-for (ii in 1:nrow(salsa2dlog)){
-  row_in <- salsa2dlog[rw]
-  row_in <- as.character(row_in)
-  if (row_in[1:4]=='Fit ') {
-    n_fits += 1
-  }
-}
-
-cat("Number of fits:", n_fits, "Original fits: ")
-
 ```
 
 
@@ -295,11 +283,6 @@ cat("Mean square error to truth seen:", mean_sum_sq_seen, "this should be 0.4298
 mean_sum_sq_unseen <- sum((predictData$truth.re[!rows_seen] - preds_out[!rows_seen])^2)/nrow(predictData[!rows_seen,])
 
 cat("Mean square error to truth unseen:", mean_sum_sq_unseen, "this should be 0.4298723. \n\n")
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 7057d2e... Add extra MSE measures
 
 ```
 
