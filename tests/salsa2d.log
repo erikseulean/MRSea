@@ -1,19 +1,12 @@
-<<<<<<< HEAD
 [1] "branch is add_loop_to_drop"
-[1] "initialDispersion 81.0323580205104"
-=======
-[1] "initialDispersion 36.451024854334"
->>>>>>> 5483e94... Add extra MSE measures and count of model fits to all test cases
+[1] "initialDispersion 13.8706278956201"
 [1] "******************************************************************************"
 [1] "Initialising..."
 [1] "******************************************************************************"
 [1] "Space-filling knots...."
 [1] "Initialising model..."
-<<<<<<< HEAD
-[1] "fit thinplate 2D 6.09433409179418"
-=======
-[1] "fit thinplate 2D 6.07201545387074"
->>>>>>> 5483e94... Add extra MSE measures and count of model fits to all test cases
+[1] "test_cases"
+[1] "fit thinplate 2D 6.29489084972188"
 [1] "Initial model fitted..."
 [1] "Fitting Initial Radii"
 [1] "initialising complete"
@@ -23,1206 +16,1397 @@
 [1] "******************************************************************************"
 [1] "Moving knot..."
 [1] "******************************************************************************"
-<<<<<<< HEAD
-[1] "fit thinplate 2D 6.14196605969911"
-[1] "fit thinplate 2D 6.09619725408378"
-[1] "fit thinplate 2D 6.09407461693128"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.23335801590211"
 [1] "move ***********************************"
-[1] "fit thinplate 2D 10000006.0940746"
-[1] "fit thinplate 2D 6.09676933055875"
-[1] "Adding knot..."
-[1] "fit thinplate 2D 6.09675562159322"
-[1] "******************************************************************************"
-[1] "Moving knot..."
-[1] "******************************************************************************"
-[1] "fit thinplate 2D 6.09890041040065"
-[1] "fit thinplate 2D 6.03265548758379"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.43986868667511"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.233358"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.22888847476932"
 [1] "move ***********************************"
-[1] "fit thinplate 2D 6.08096397461833"
-[1] "fit thinplate 2D 10000006.0326555"
-[1] "fit thinplate 2D 6.05393305041622"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.2565567692593"
 [1] "Adding knot..."
-[1] "fit thinplate 2D 6.02149235065286"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.22685691154806"
 [1] "knot added ***********************************"
 [1] "******************************************************************************"
 [1] "Moving knot..."
 [1] "******************************************************************************"
-[1] "fit thinplate 2D 10000006.0214924"
-[1] "fit thinplate 2D 6.03979765542444"
-[1] "fit thinplate 2D 6.02034344813443"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.22434446229752"
 [1] "move ***********************************"
-[1] "fit thinplate 2D 10000006.0203434"
-[1] "fit thinplate 2D 6.05864303229524"
-[1] "fit thinplate 2D 6.02327431541695"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.40486607834511"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.30069439379325"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.22549251877975"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.25745302014639"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.2238084995218"
+[1] "move ***********************************"
 [1] "Adding knot..."
-[1] "fit thinplate 2D 6.0258256713282"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.22334588154413"
+[1] "knot added ***********************************"
 [1] "******************************************************************************"
 [1] "Moving knot..."
 [1] "******************************************************************************"
-[1] "fit thinplate 2D 10000006.0203434"
-[1] "fit thinplate 2D 6.03979765542444"
-[1] "fit thinplate 2D 6.02149235065286"
-[1] "fit thinplate 2D 10000006.0203434"
-[1] "fit thinplate 2D 6.05864303229524"
-[1] "fit thinplate 2D 6.02327431541695"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.21710679666943"
+[1] "move ***********************************"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.41126367966522"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.30126447816267"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.22362460711919"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.22695735981003"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.2171068"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.2171068"
 [1] "Adding knot..."
-[1] "fit thinplate 2D 6.0258256713282"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.2171068"
+[1] "******************************************************************************"
+[1] "Moving knot..."
+[1] "******************************************************************************"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.18221961820486"
+[1] "move ***********************************"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.23658660653025"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.27329876548403"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.19322418359021"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.16678236444328"
+[1] "move ***********************************"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.20701702950213"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1929555027235"
+[1] "Adding knot..."
+[1] "test_cases"
+[1] "fit thinplate 2D 6.15504271539443"
+[1] "knot added ***********************************"
+[1] "******************************************************************************"
+[1] "Moving knot..."
+[1] "******************************************************************************"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.18357877882128"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1550427"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.21382611589096"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.16049781419635"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.16205389486953"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.2083327818483"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.19446998021659"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.16623551883664"
+[1] "Adding knot..."
+[1] "test_cases"
+[1] "fit thinplate 2D 6.15545605860283"
 [1] "Improving..."
 [1] "******************************************************************************"
 [1] "new version"
-[1] "fit thinplate 2D 10000006.0203434"
-[1] "fit thinplate 2D 6.06889143359106"
-[1] "fit thinplate 2D 6.06608593159455"
-[1] "fit thinplate 2D 6.02149235065286"
-[1] "fit thinplate 2D 6.01922512617067"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1476098790911"
 [1] "improve *************************************"
-[1] "fit thinplate 2D 6.02690314535566"
-[1] "fit thinplate 2D 6.01364489776308"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1476099"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1476099"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1476099"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1476099"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1358361750963"
 [1] "improve *************************************"
-[1] "fit thinplate 2D 6.00997043641084"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1358362"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12751423926224"
 [1] "improve *************************************"
-[1] "fit thinplate 2D 6.02512242135238"
-[1] "fit thinplate 2D 10000006.0099704"
-[1] "fit thinplate 2D 6.03069481294008"
-[1] "fit thinplate 2D 6.07093730033881"
-[1] "fit thinplate 2D 6.06705215601282"
-[1] "fit thinplate 2D 10000006.0099704"
-[1] "fit thinplate 2D 6.00979048726356"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12755052453199"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12841708566264"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1275142"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1275142"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13185824782076"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1275142"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.14480475245769"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1275142"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12965811143357"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1275142"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13659423338843"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1275142"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13808580600891"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1275142"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12699526340751"
 [1] "improve *************************************"
-[1] "fit thinplate 2D 6.00968978068768"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1269953"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12286423470497"
 [1] "improve *************************************"
-[1] "fit thinplate 2D 10000006.0096898"
-[1] "fit thinplate 2D 6.00920257427061"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1228642"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13497181426831"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12305431371189"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.15039179084491"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1228642"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12676213680703"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12271837243457"
 [1] "improve *************************************"
-[1] "fit thinplate 2D 6.0112713317256"
-[1] "fit thinplate 2D 6.00703830528585"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 6.00938199064358"
-[1] "fit thinplate 2D 6.00754409165579"
-[1] "fit thinplate 2D 6.00907488036874"
-[1] "fit thinplate 2D 6.00553475606686"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 6.00413924290473"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 6.00878037684291"
-[1] "fit thinplate 2D 6.005616415231"
-[1] "fit thinplate 2D 6.01140728183655"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.19636982940061"
 [1] "new version"
-[1] "fit thinplate 2D 10000006.0041392"
-[1] "fit thinplate 2D 6.04356854918125"
-[1] "fit thinplate 2D 6.04248441214779"
-[1] "fit thinplate 2D 6.00919339876827"
-[1] "fit thinplate 2D 6.00686236172842"
-[1] "fit thinplate 2D 6.01310508645958"
-[1] "fit thinplate 2D 6.00323530399976"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1254962478118"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13345134712131"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13287006775966"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12335323176953"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12414193079161"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12507526370986"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12578484277793"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13112340514918"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12477267084043"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13773732100047"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12442296767785"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13275899909637"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13345723934152"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12282317373796"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1227184"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12857584374886"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11860101294316"
 [1] "improve *************************************"
-[1] "fit thinplate 2D 10000006.0032353"
-[1] "fit thinplate 2D 10000006.0032353"
-[1] "fit thinplate 2D 10000006.0032353"
-[1] "fit thinplate 2D 6.0262887492835"
-[1] "fit thinplate 2D 6.04386736983236"
-[1] "fit thinplate 2D 6.04222809598879"
-[1] "fit thinplate 2D 6.00265945361373"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11899643893309"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.118601"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11836212058799"
 [1] "improve *************************************"
-[1] "fit thinplate 2D 10000006.0026595"
-[1] "fit thinplate 2D 6.00494905607032"
-[1] "fit thinplate 2D 10000006.0026595"
-[1] "fit thinplate 2D 10000006.0026595"
-[1] "fit thinplate 2D 6.00625604425871"
-[1] "fit thinplate 2D 5.99925310980431"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 6.00395990122004"
-[1] "fit thinplate 2D 6.00176544498457"
-[1] "fit thinplate 2D 10000005.9992531"
-[1] "fit thinplate 2D 5.99752068659696"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 6.00141371329488"
-[1] "fit thinplate 2D 10000005.9975207"
-[1] "fit thinplate 2D 6.00425944854343"
-[1] "fit thinplate 2D 6.00141072749816"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1183621"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1183621"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12662924081644"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12597873512937"
 [1] "new version"
-[1] "fit thinplate 2D 10000005.9975207"
-[1] "fit thinplate 2D 6.04193224651117"
-[1] "fit thinplate 2D 6.04035790541112"
-[1] "fit thinplate 2D 6.00542450545524"
-[1] "fit thinplate 2D 5.9973496270702"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13884280314656"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12297721755834"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12894526610687"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1183621"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1183621"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12749381166784"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11783910657979"
 [1] "improve *************************************"
-[1] "fit thinplate 2D 6.00603938490517"
-[1] "fit thinplate 2D 5.99953198308619"
-[1] "fit thinplate 2D 5.98792926171773"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1178391"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1178391"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11909352865124"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11883144768677"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1178391"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1178391"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1174078158517"
 [1] "improve *************************************"
-[1] "fit thinplate 2D 6.01021120366929"
-[1] "fit thinplate 2D 10000005.9879293"
-[1] "fit thinplate 2D 6.0195300625966"
-[1] "fit thinplate 2D 6.05005672019514"
-[1] "fit thinplate 2D 6.04793700283652"
-[1] "fit thinplate 2D 10000005.9879293"
-[1] "fit thinplate 2D 5.99171127743017"
-[1] "fit thinplate 2D 10000005.9879293"
-[1] "fit thinplate 2D 10000005.9879293"
-[1] "fit thinplate 2D 5.99210083587418"
-[1] "fit thinplate 2D 5.99167829166948"
-[1] "fit thinplate 2D 5.99203864380376"
-[1] "fit thinplate 2D 10000005.9879293"
-[1] "fit thinplate 2D 5.9946400290197"
-[1] "fit thinplate 2D 10000005.9879293"
-[1] "fit thinplate 2D 5.99002133985716"
-[1] "fit thinplate 2D 5.98515541219794"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1174078"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12533926449947"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1172026503627"
 [1] "improve *************************************"
-[1] "fit thinplate 2D 5.99265191805893"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 10000005.9851554"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13112623695888"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12272309398182"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1172027"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13288525822536"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1172027"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12984049578954"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1172027"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1172027"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1172027"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11725697716097"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12218455904352"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12354502991192"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11776176224895"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11882116008056"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11661546087512"
+[1] "improve *************************************"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11792911842238"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11853061212245"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1166155"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1166155"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13958097597462"
 [1] "new version"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 6.04725007623068"
-[1] "fit thinplate 2D 6.04549824674554"
-[1] "fit thinplate 2D 5.9922158036549"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 5.98840144507521"
-[1] "fit thinplate 2D 5.98786254024484"
-[1] "fit thinplate 2D 5.99515096030321"
-[1] "fit thinplate 2D 5.99799648846875"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 6.01750433830409"
-[1] "fit thinplate 2D 6.05019820382059"
-[1] "fit thinplate 2D 6.04793257924941"
-[1] "fit thinplate 2D 5.98556370405964"
-[1] "fit thinplate 2D 5.98813483154477"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 5.98851880932348"
-[1] "fit thinplate 2D 5.98907530827641"
-[1] "fit thinplate 2D 5.98959331817596"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 5.99236706705139"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 5.98792926171773"
-[1] "fit thinplate 2D 5.989121926067"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 5.99265191805893"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13505051601185"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12535955198512"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1320788642494"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1166155"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1166155"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1166155"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12861046043461"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1166155"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1166155"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11774759986165"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1166155"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1159605769456"
+[1] "improve *************************************"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11696115418815"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11938315839254"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11836080679209"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.19988391301514"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.14078115615996"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12882270201576"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1263975291572"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11673581141762"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1208204748596"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12155821141252"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1160197992988"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11735062900921"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11678437471771"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11702695130243"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1166197019205"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13769499877742"
+[1] "new version"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12459975500081"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13008196129599"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13150537143425"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11696115418815"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11775632526778"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11661546087512"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11836080679209"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.19988391301514"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.14078115615996"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12882270201576"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1263975291572"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11673581141762"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1208204748596"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12155821141252"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1160197992988"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11735062900921"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11678437471771"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11702695130243"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1166197019205"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13769499877742"
 [1] "******************************************************************************"
 [1] "Simplifying model..."
 [1] "******************************************************************************"
 [1] "drop 0"
-[1] 5.985155
-[1] "fit thinplate 2D 6.04670616385564"
-[1] "6.04670616385564 5.98515541219794 6 0 0"
-[1] "fit thinplate 2D 6.01732130662233"
-[1] "6.01732130662233 5.98515541219794 6 0 0"
-[1] "fit thinplate 2D 6.0492689017216"
-[1] "6.0492689017216 5.98515541219794 6 0 0"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "10000005.9851554 5.98515541219794 6 0 0"
-[1] "fit thinplate 2D 6.02461456462779"
-[1] "6.02461456462779 5.98515541219794 6 0 0"
-[1] "fit thinplate 2D 6.05404115892889"
-[1] "6.05404115892889 5.98515541219794 6 0 0"
-=======
-[1] "fit thinplate 2D 6.14076341384818"
-[1] "fit thinplate 2D 6.06836524280934"
-[1] "move ***********************************"
-[1] "fit thinplate 2D 6.06996654139619"
-[1] "fit thinplate 2D 10000006.0683652"
-[1] "fit thinplate 2D 6.08762524757429"
-[1] "Adding knot..."
-[1] "fit thinplate 2D 6.0769572899154"
-[1] "******************************************************************************"
-[1] "Moving knot..."
-[1] "******************************************************************************"
-[1] "fit thinplate 2D 6.09140535412165"
-[1] "fit thinplate 2D 5.99751302251258"
-[1] "move ***********************************"
-[1] "fit thinplate 2D 6.00831766200827"
-[1] "fit thinplate 2D 10000005.997513"
-[1] "fit thinplate 2D 6.06588595587589"
-[1] "Adding knot..."
-[1] "fit thinplate 2D 6.00550235729349"
-[1] "******************************************************************************"
-[1] "Moving knot..."
-[1] "******************************************************************************"
-[1] "fit thinplate 2D 6.09140535412165"
-[1] "fit thinplate 2D 6.06836524280934"
-[1] "fit thinplate 2D 6.00831766200827"
-[1] "fit thinplate 2D 10000005.997513"
-[1] "fit thinplate 2D 6.06588595587589"
-[1] "Adding knot..."
-[1] "fit thinplate 2D 6.00550235729349"
-[1] "Improving..."
-[1] "******************************************************************************"
-[1] "new version"
-[1] "fit thinplate 2D 5.99884042528136"
-[1] "fit thinplate 2D 5.99637713311009"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.99468081569668"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.99390616468337"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 6.00311890793874"
-[1] "fit thinplate 2D 6.01435329495268"
-[1] "fit thinplate 2D 6.01630856379133"
-[1] "fit thinplate 2D 6.01168175879237"
-[1] "fit thinplate 2D 5.9926506435423"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.99498772171889"
-[1] "fit thinplate 2D 5.99155941144902"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 6.002889720618"
-[1] "fit thinplate 2D 5.99397162804902"
-[1] "fit thinplate 2D 6.00780662392994"
-[1] "fit thinplate 2D 5.99074227949701"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.99282237667198"
-[1] "fit thinplate 2D 6.00292326093056"
-[1] "fit thinplate 2D 5.99352224697541"
-[1] "fit thinplate 2D 6.00427235984743"
-[1] "fit thinplate 2D 5.99045951861027"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.99182571012864"
-[1] "fit thinplate 2D 5.98975695037202"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.99399901396268"
-[1] "fit thinplate 2D 5.98781556491987"
-[1] "improve *************************************"
-[1] "new version"
-[1] "fit thinplate 2D 5.98818890719156"
-[1] "fit thinplate 2D 5.98718426327817"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.98825228155315"
-[1] "fit thinplate 2D 5.98738279076407"
-[1] "fit thinplate 2D 5.98858993071604"
-[1] "fit thinplate 2D 6.00082932147902"
-[1] "fit thinplate 2D 5.99990975180788"
-[1] "fit thinplate 2D 5.99247459602346"
-[1] "fit thinplate 2D 5.98803433748695"
-[1] "fit thinplate 2D 5.98582376417323"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.98636538055045"
-[1] "fit thinplate 2D 5.98886657999934"
-[1] "fit thinplate 2D 5.98511917719219"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.98551055426052"
-[1] "fit thinplate 2D 5.98590999158128"
-[1] "fit thinplate 2D 5.99682510085656"
-[1] "fit thinplate 2D 5.98825117522975"
-[1] "fit thinplate 2D 5.99791401259046"
-[1] "fit thinplate 2D 5.98668987250706"
-[1] "fit thinplate 2D 5.98354477959609"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.98100160678468"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.98860699494082"
-[1] "fit thinplate 2D 5.98851343308841"
-[1] "new version"
-[1] "fit thinplate 2D 5.98226605655035"
-[1] "fit thinplate 2D 5.97955942287035"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.98150764693801"
-[1] "fit thinplate 2D 5.98090043599589"
-[1] "fit thinplate 2D 5.98089303638748"
-[1] "fit thinplate 2D 5.99013350725356"
-[1] "fit thinplate 2D 5.98997620768808"
-[1] "fit thinplate 2D 5.98194889532231"
-[1] "fit thinplate 2D 5.98050893695937"
-[1] "fit thinplate 2D 5.98027929906709"
-[1] "fit thinplate 2D 5.9784963647034"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.97847881369713"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.97961285816077"
-[1] "fit thinplate 2D 5.98176569000988"
-[1] "fit thinplate 2D 5.97815545729957"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.98973995875713"
-[1] "fit thinplate 2D 5.98174420006323"
-[1] "fit thinplate 2D 5.99029601196483"
-[1] "fit thinplate 2D 5.97435379031241"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.98497292255682"
-[1] "fit thinplate 2D 5.98139480394405"
-[1] "fit thinplate 2D 5.96905312756332"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.9749366123367"
-[1] "new version"
-[1] "fit thinplate 2D 5.96751277563281"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.97108241083535"
-[1] "fit thinplate 2D 5.96949824268833"
-[1] "fit thinplate 2D 5.97031909016376"
-[1] "fit thinplate 2D 5.96854507840113"
-[1] "fit thinplate 2D 5.97537593034534"
-[1] "fit thinplate 2D 5.97037222809205"
-[1] "fit thinplate 2D 5.97488861147914"
-[1] "fit thinplate 2D 5.96813799915429"
-[1] "fit thinplate 2D 5.96755853802355"
-[1] "fit thinplate 2D 5.96922088604531"
-[1] "fit thinplate 2D 5.96601289402886"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.96741122297298"
-[1] "fit thinplate 2D 5.96906207852376"
-[1] "fit thinplate 2D 5.9666614018474"
-[1] "fit thinplate 2D 5.97052741313614"
-[1] "fit thinplate 2D 5.97381009284283"
-[1] "fit thinplate 2D 5.96612728856579"
-[1] "fit thinplate 2D 5.96358843323015"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.97282861583993"
-[1] "fit thinplate 2D 5.95224413932085"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.9725401255138"
-[1] "fit thinplate 2D 5.97730151506624"
-[1] "new version"
-[1] "fit thinplate 2D 5.95424810373368"
-[1] "fit thinplate 2D 5.95096252372638"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.95260705065486"
-[1] "fit thinplate 2D 5.9515511116572"
-[1] "fit thinplate 2D 5.95075963418087"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.95304613598254"
-[1] "fit thinplate 2D 5.94996504923892"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.95255078515453"
-[1] "fit thinplate 2D 5.95089322408575"
-[1] "fit thinplate 2D 5.95154658810264"
-[1] "fit thinplate 2D 5.95280775939642"
-[1] "fit thinplate 2D 5.95181410604285"
-[1] "fit thinplate 2D 5.95430817956241"
-[1] "fit thinplate 2D 5.9557671723099"
-[1] "fit thinplate 2D 5.95111668637436"
-[1] "fit thinplate 2D 5.95738283676236"
-[1] "fit thinplate 2D 5.95212036393839"
-[1] "fit thinplate 2D 5.95083178007681"
-[1] "fit thinplate 2D 5.95394508151018"
-[1] "fit thinplate 2D 5.96902113990976"
-[1] "fit thinplate 2D 5.96677145892842"
-[1] "fit thinplate 2D 5.96035793244879"
-[1] "fit thinplate 2D 5.97560576585361"
-[1] "new version"
-[1] "fit thinplate 2D 5.95131296492819"
-[1] "fit thinplate 2D 5.95023164019952"
-[1] "fit thinplate 2D 5.9517396500694"
-[1] "fit thinplate 2D 5.95216401547342"
-[1] "fit thinplate 2D 5.95221920659024"
-[1] "fit thinplate 2D 5.94941060829647"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.95255078515453"
-[1] "fit thinplate 2D 5.95220509354492"
-[1] "fit thinplate 2D 5.95093213720417"
-[1] "fit thinplate 2D 5.95102076160356"
-[1] "fit thinplate 2D 5.95228333319689"
-[1] "fit thinplate 2D 5.95129400345421"
-[1] "fit thinplate 2D 5.95389518663182"
-[1] "fit thinplate 2D 5.95508863968788"
-[1] "fit thinplate 2D 5.94943167369839"
-[1] "fit thinplate 2D 5.95741534164738"
-[1] "fit thinplate 2D 5.9526567575326"
-[1] "fit thinplate 2D 5.9571121543108"
-[1] "fit thinplate 2D 5.95115092741136"
-[1] "fit thinplate 2D 5.95330231733689"
-[1] "fit thinplate 2D 5.97304398807536"
-[1] "fit thinplate 2D 5.97118563099893"
-[1] "fit thinplate 2D 5.9599221191421"
-[1] "fit thinplate 2D 5.97901428241407"
-[1] "new version"
-[1] "fit thinplate 2D 5.95108634479108"
-[1] "fit thinplate 2D 5.95288055676552"
-[1] "fit thinplate 2D 5.95013283282094"
-[1] "fit thinplate 2D 5.95017434914265"
-[1] "fit thinplate 2D 5.95579783308459"
-[1] "fit thinplate 2D 5.95220509354492"
-[1] "fit thinplate 2D 5.94996504923892"
-[1] "fit thinplate 2D 5.95194316802846"
-[1] "fit thinplate 2D 5.95255078515453"
-[1] "fit thinplate 2D 5.95093213720417"
-[1] "fit thinplate 2D 5.95102076160356"
-[1] "fit thinplate 2D 5.95228333319689"
-[1] "fit thinplate 2D 5.95129400345421"
-[1] "fit thinplate 2D 5.95389518663182"
-[1] "fit thinplate 2D 5.95508863968788"
-[1] "fit thinplate 2D 5.94943167369839"
-[1] "fit thinplate 2D 5.95741534164738"
-[1] "fit thinplate 2D 5.9526567575326"
-[1] "fit thinplate 2D 5.9571121543108"
-[1] "fit thinplate 2D 5.95115092741136"
-[1] "fit thinplate 2D 5.95330231733689"
-[1] "fit thinplate 2D 5.97304398807536"
-[1] "fit thinplate 2D 5.97118563099893"
-[1] "fit thinplate 2D 5.9599221191421"
-[1] "fit thinplate 2D 5.97901428241407"
-[1] "******************************************************************************"
-[1] "Simplifying model..."
-[1] "******************************************************************************"
-[1] "fit thinplate 2D 5.94230988764671"
-[1] "drop **********************************"
-[1] "fit thinplate 2D 5.95077206720752"
-[1] "fit thinplate 2D 5.9440238332723"
-[1] "fit thinplate 2D 6.19594654956469"
-[1] "fit thinplate 2D 5.98848740701351"
->>>>>>> 5483e94... Add extra MSE measures and count of model fits to all test cases
+[1] 6.115961
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12593370153251"
+[1] "6.12593370153251 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.17594596945074"
+[1] "6.17594596945074 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.34615780208138"
+[1] "6.34615780208138 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.19782776633543"
+[1] "6.19782776633543 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.26018551492348"
+[1] "6.26018551492348 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.2022471387041"
+[1] "6.2022471387041 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.20435778400925"
+[1] "6.20435778400925 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1991073267049"
+[1] "6.1991073267049 6.1159605769456 8 0 0"
 [1] "******************************************************************************"
 [1] "Exchanging..."
 [1] "******************************************************************************"
 [1] "******************************************************************************"
 [1] "Moving knot..."
 [1] "******************************************************************************"
-<<<<<<< HEAD
-[1] "fit thinplate 2D 6.02837220574392"
-[1] "fit thinplate 2D 6.02326190602782"
-[1] "fit thinplate 2D 5.9922158036549"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 6.02777620493002"
-[1] "fit thinplate 2D 5.99764317154822"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11827946609302"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.17339466124228"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1974084152305"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.25897187362594"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
 [1] "Adding knot..."
-[1] "fit thinplate 2D 10000005.9851554"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11949061478804"
 [1] "Improving..."
 [1] "******************************************************************************"
 [1] "new version"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 6.04725007623068"
-[1] "fit thinplate 2D 6.04549824674554"
-[1] "fit thinplate 2D 5.9922158036549"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 5.98840144507521"
-[1] "fit thinplate 2D 5.98786254024484"
-[1] "fit thinplate 2D 5.99515096030321"
-[1] "fit thinplate 2D 5.99799648846875"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 6.01750433830409"
-[1] "fit thinplate 2D 6.05019820382059"
-[1] "fit thinplate 2D 6.04793257924941"
-[1] "fit thinplate 2D 5.98556370405964"
-[1] "fit thinplate 2D 5.98813483154477"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 5.98851880932348"
-[1] "fit thinplate 2D 5.98907530827641"
-[1] "fit thinplate 2D 5.98959331817596"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 5.99236706705139"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 5.98792926171773"
-[1] "fit thinplate 2D 5.989121926067"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 5.99265191805893"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12459975500081"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13008196129599"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13150537143425"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11696115418815"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11775632526778"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11661546087512"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11836080679209"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.19988391301514"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.14078115615996"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12882270201576"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1263975291572"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11673581141762"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1208204748596"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12155821141252"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1160197992988"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11735062900921"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11678437471771"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.11702695130243"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1166197019205"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.13769499877742"
 [1] "******************************************************************************"
 [1] "Simplifying model..."
 [1] "******************************************************************************"
 [1] "drop 0"
-[1] 5.985155
-[1] "fit thinplate 2D 6.04670616385564"
-[1] "6.04670616385564 5.98515541219794 6 0 0"
-[1] "fit thinplate 2D 6.01732130662233"
-[1] "6.01732130662233 5.98515541219794 6 0 0"
-[1] "fit thinplate 2D 6.0492689017216"
-[1] "6.0492689017216 5.98515541219794 6 0 0"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "10000005.9851554 5.98515541219794 6 0 0"
-[1] "fit thinplate 2D 6.02461456462779"
-[1] "6.02461456462779 5.98515541219794 6 0 0"
-[1] "fit thinplate 2D 6.05404115892889"
-[1] "6.05404115892889 5.98515541219794 6 0 0"
+[1] 6.115961
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12593370153251"
+[1] "6.12593370153251 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.17594596945074"
+[1] "6.17594596945074 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.34615780208138"
+[1] "6.34615780208138 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.19782776633543"
+[1] "6.19782776633543 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.26018551492348"
+[1] "6.26018551492348 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.2022471387041"
+[1] "6.2022471387041 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.20435778400925"
+[1] "6.20435778400925 6.1159605769456 8 0 0"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1991073267049"
+[1] "6.1991073267049 6.1159605769456 8 0 0"
 [1] "And we're done..."
 [1] 1
 [1] 153 207 152 271  33
 [1] 1 1 1 1 1
-[1] 6.094334
+[1] 6.294891
 [1] 2
-[1]  19 207 152 271  33
+[1]  69 207 152 271  33
 [1] 1 1 1 1 1
-[1] 6.141966
+[1] 6.233358
 [1] 3
-[1] 153  19 152 271  33
+[1] 153  69 152 271  33
 [1] 1 1 1 1 1
-[1] 6.096197
+[1] 6.439869
 [1] 4
-[1] 153 207  19 271  33
+[1] 153 207 152  69  33
 [1] 1 1 1 1 1
-[1] 6.094075
+[1] 6.228888
 [1] 5
-[1] 153 207 152 271  19
+[1] 153 207 152 271  69
 [1] 1 1 1 1 1
-[1] 6.096769
+[1] 6.256557
 [1] 6
-[1] 153 207 152 271  33  19
+[1] 153 207 152 271  33  69
 [1] 1 1 1 1 1 1
-[1] 6.096756
+[1] 6.226857
 [1] 7
-[1]  87 207  19 271  33
-[1] 1 1 1 1 1
-[1] 6.0989
+[1] 134 207 152 271  33  69
+[1] 1 1 1 1 1 1
+[1] 6.224344
 [1] 8
-[1] 153  87  19 271  33
-[1] 1 1 1 1 1
-[1] 6.032655
+[1] 153 134 152 271  33  69
+[1] 1 1 1 1 1 1
+[1] 6.404866
 [1] 9
-[1] 153 207  87 271  33
-[1] 1 1 1 1 1
-[1] 6.080964
+[1] 153 207 134 271  33  69
+[1] 1 1 1 1 1 1
+[1] 6.300694
 [1] 10
-[1] 153 207  19 271  87
-[1] 1 1 1 1 1
-[1] 6.053933
+[1] 153 207 152 134  33  69
+[1] 1 1 1 1 1 1
+[1] 6.225493
 [1] 11
-[1] 153 207  19 271  33  87
+[1] 153 207 152 271 134  69
 [1] 1 1 1 1 1 1
-[1] 6.021492
+[1] 6.257453
 [1] 12
-[1] 153  31  19 271  33  87
+[1] 153 207 152 271  33 134
 [1] 1 1 1 1 1 1
-[1] 6.039798
+[1] 6.223808
 [1] 13
-[1] 153 207  31 271  33  87
-[1] 1 1 1 1 1 1
-[1] 6.020343
+[1] 153 207 152 271  33  69 134
+[1] 1 1 1 1 1 1 1
+[1] 6.223346
 [1] 14
-[1] 153 207  19 271  31  87
-[1] 1 1 1 1 1 1
-[1] 6.058643
+[1] 255 207 152 271  33  69 134
+[1] 1 1 1 1 1 1 1
+[1] 6.217107
 [1] 15
-[1] 153 207  19 271  33  31
-[1] 1 1 1 1 1 1
-[1] 6.023274
+[1] 153 255 152 271  33  69 134
+[1] 1 1 1 1 1 1 1
+[1] 6.411264
 [1] 16
-[1] 153 207  19 271  33  87  31
+[1] 153 207 255 271  33  69 134
 [1] 1 1 1 1 1 1 1
-[1] 6.025826
+[1] 6.301264
 [1] 17
-[1] 153  19  31 271  33  87
-[1] 1 1 1 1 1 1
-[1] 6.039798
-[1] 18
-[1] 153 207  19 271  33  87
-[1] 1 1 1 1 1 1
-[1] 6.021492
-[1] 19
-[1] 153 207  31 271  19  87
-[1] 1 1 1 1 1 1
-[1] 6.058643
-[1] 20
-[1] 153 207  31 271  33  19
-[1] 1 1 1 1 1 1
-[1] 6.023274
-[1] 21
-[1] 153 207  31 271  33  87  19
+[1] 153 207 152 255  33  69 134
 [1] 1 1 1 1 1 1 1
-[1] 6.025826
+[1] 6.223625
+[1] 18
+[1] 153 207 152 271 255  69 134
+[1] 1 1 1 1 1 1 1
+[1] 6.226957
+[1] 19
+[1] 193 207 152 271  33  69 134
+[1] 1 1 1 1 1 1 1
+[1] 6.18222
+[1] 20
+[1] 255 193 152 271  33  69 134
+[1] 1 1 1 1 1 1 1
+[1] 6.236587
+[1] 21
+[1] 255 207 193 271  33  69 134
+[1] 1 1 1 1 1 1 1
+[1] 6.273299
 [1] 22
-[1] 153 207   9 271  33  87
-[1] 1 1 1 1 1 1
-[1] 6.068891
+[1] 255 207 152 193  33  69 134
+[1] 1 1 1 1 1 1 1
+[1] 6.193224
 [1] 23
-[1] 153 207 132 271  33  87
-[1] 1 1 1 1 1 1
-[1] 6.066086
+[1] 255 207 152 271 193  69 134
+[1] 1 1 1 1 1 1 1
+[1] 6.166782
 [1] 24
-[1] 153 207  19 271  33  87
-[1] 1 1 1 1 1 1
-[1] 6.021492
+[1] 255 207 152 271  33 193 134
+[1] 1 1 1 1 1 1 1
+[1] 6.207017
 [1] 25
-[1] 153 235  31 271  33  87
-[1] 1 1 1 1 1 1
-[1] 6.019225
+[1] 255 207 152 271  33  69 193
+[1] 1 1 1 1 1 1 1
+[1] 6.192956
 [1] 26
-[1] 153  54  31 271  33  87
-[1] 1 1 1 1 1 1
-[1] 6.026903
+[1] 255 207 152 271  33  69 134 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.155043
 [1] 27
-[1] 153 131  31 271  33  87
-[1] 1 1 1 1 1 1
-[1] 6.013645
+[1]  50 207 152 271  33  69 134 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.183579
 [1] 28
-[1] 153 279  31 271  33  87
-[1] 1 1 1 1 1 1
-[1] 6.00997
+[1] 255 207  50 271  33  69 134 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.213826
 [1] 29
-[1] 153 187  31 271  33  87
-[1] 1 1 1 1 1 1
-[1] 6.025122
+[1] 255 207 152  50  33  69 134 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.160498
 [1] 30
-[1] 153 279  31 271  33   9
-[1] 1 1 1 1 1 1
-[1] 6.030695
+[1] 255 207 152 271  50  69 134 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.162054
 [1] 31
-[1] 153 279  31 271  33  86
-[1] 1 1 1 1 1 1
-[1] 6.070937
+[1] 255 207 152 271  33  50 134 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.208333
 [1] 32
-[1] 153 279  31 271  33 228
-[1] 1 1 1 1 1 1
-[1] 6.067052
+[1] 255 207 152 271  33  69  50 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.19447
 [1] 33
-[1] 153 279  31  50  33  87
-[1] 1 1 1 1 1 1
-[1] 6.00979
+[1] 255 207 152 271  33  69 134  50
+[1] 1 1 1 1 1 1 1 1
+[1] 6.166236
 [1] 34
-[1] 153 279  31 204  33  87
-[1] 1 1 1 1 1 1
-[1] 6.00969
+[1] 255 207 152 271  33  69 134 193  50
+[1] 1 1 1 1 1 1 1 1 1
+[1] 6.155456
 [1] 35
-[1] 153 279  31 127  33  87
-[1] 1 1 1 1 1 1
-[1] 6.009203
+[1] 255 207 152 271  33  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.14761
 [1] 36
-[1] 153 279  31 127 174  87
-[1] 1 1 1 1 1 1
-[1] 6.011271
+[1] 255 207 194 271  33  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.135836
 [1] 37
-[1] 153 279  31 127 217  87
-[1] 1 1 1 1 1 1
-[1] 6.007038
+[1] 255 207 264 271  33  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.127514
 [1] 38
-[1] 153 279  31 127 192  87
-[1] 1 1 1 1 1 1
-[1] 6.009382
+[1] 255 235 264 271  33  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.127551
 [1] 39
-[1] 153 279  31 127 140  87
-[1] 1 1 1 1 1 1
-[1] 6.007544
+[1] 255  54 264 271  33  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.128417
 [1] 40
-[1] 153 279  31 127 124  87
-[1] 1 1 1 1 1 1
-[1] 6.009075
+[1] 255 187 264 271  33  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.131858
 [1] 41
-[1] 202 279  31 127 217  87
-[1] 1 1 1 1 1 1
-[1] 6.005535
+[1] 255 207 264 271  33  69  67 226
+[1] 1 1 1 1 1 1 1 1
+[1] 6.144805
 [1] 42
-[1] 172 279  31 127 217  87
-[1] 1 1 1 1 1 1
-[1] 6.004139
+[1] 255 207 264 271  33  69  67 249
+[1] 1 1 1 1 1 1 1 1
+[1] 6.129658
 [1] 43
-[1]  11 279  31 127 217  87
-[1] 1 1 1 1 1 1
-[1] 6.00878
+[1] 255 207 264  50  33  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.136594
 [1] 44
-[1] 145 279  31 127 217  87
-[1] 1 1 1 1 1 1
-[1] 6.005616
+[1] 255 207 264  74  33  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.138086
 [1] 45
-[1] 265 279  31 127 217  87
-[1] 1 1 1 1 1 1
-[1] 6.011407
+[1] 255 207 264 271 174  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.126995
 [1] 46
-[1] 172 279   9 127 217  87
-[1] 1 1 1 1 1 1
-[1] 6.043569
+[1] 255 207 264 271 192  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.122864
 [1] 47
-[1] 172 279 132 127 217  87
-[1] 1 1 1 1 1 1
-[1] 6.042484
+[1] 255 207 264 271 124  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.134972
 [1] 48
-[1] 172 279  19 127 217  87
-[1] 1 1 1 1 1 1
-[1] 6.009193
+[1] 134 207 264 271 192  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.123054
 [1] 49
-[1] 172 131  31 127 217  87
-[1] 1 1 1 1 1 1
-[1] 6.006862
+[1] 292 207 264 271 192  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.150392
 [1] 50
-[1] 172 207  31 127 217  87
-[1] 1 1 1 1 1 1
-[1] 6.013105
+[1] 241 207 264 271 192  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.126762
 [1] 51
-[1] 172 245  31 127 217  87
-[1] 1 1 1 1 1 1
-[1] 6.003235
+[1] 255 207 264 271 192 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.122718
 [1] 52
-[1] 172 245  31 127 217   9
-[1] 1 1 1 1 1 1
-[1] 6.026289
+[1] 255 207 264 271 192  50  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.19637
 [1] 53
-[1] 172 245  31 127 217  86
-[1] 1 1 1 1 1 1
-[1] 6.043867
+[1] 255 207 264 271 192 134 292 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.125496
 [1] 54
-[1] 172 245  31 127 217 228
-[1] 1 1 1 1 1 1
-[1] 6.042228
+[1] 255 207 264 271 192 134 224 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.133451
 [1] 55
-[1] 172 245  31 204 217  87
-[1] 1 1 1 1 1 1
-[1] 6.002659
+[1] 255 207 194 271 192 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.13287
 [1] 56
-[1] 172 245  31 287 217  87
-[1] 1 1 1 1 1 1
-[1] 6.004949
+[1] 255 207  81 271 192 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.123353
 [1] 57
-[1] 172 245  31 204  33  87
-[1] 1 1 1 1 1 1
-[1] 6.006256
+[1] 255 235 264 271 192 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.124142
 [1] 58
-[1] 172 245  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.999253
+[1] 255  54 264 271 192 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.125075
 [1] 59
-[1] 172 245  31 204 140  87
-[1] 1 1 1 1 1 1
-[1] 6.00396
+[1] 255 187 264 271 192 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.125785
 [1] 60
-[1] 172 245  31 204 128  87
-[1] 1 1 1 1 1 1
-[1] 6.001765
+[1] 255 207 264 271 192 134  67 226
+[1] 1 1 1 1 1 1 1 1
+[1] 6.131123
 [1] 61
-[1]  40 245  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.997521
+[1] 255 207 264 271 192 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.124773
 [1] 62
-[1] 145 245  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.001414
+[1] 255 207 264 271 192 134  67 101
+[1] 1 1 1 1 1 1 1 1
+[1] 6.137737
 [1] 63
-[1] 153 245  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.004259
+[1] 255 207 264 271 192 134  67 249
+[1] 1 1 1 1 1 1 1 1
+[1] 6.124423
 [1] 64
-[1] 202 245  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.001411
+[1] 255 207 264  50 192 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.132759
 [1] 65
-[1]  40 245   9 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.041932
+[1] 255 207 264  74 192 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.133457
 [1] 66
-[1]  40 245 132 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.040358
+[1] 255 207 264 271 143 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.122823
 [1] 67
-[1]  40 245  19 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.005425
+[1] 255 207 264 271  33 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.128576
 [1] 68
-[1]  40  56  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.99735
+[1] 255 207 264 271  92 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.118601
 [1] 69
-[1]  40 107  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.006039
+[1] 292 207 264 271  92 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.118996
 [1] 70
-[1]  40 279  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.999532
+[1] 241 207 264 271  92 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.118362
 [1] 71
-[1]  40  71  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.987929
+[1] 241 207 264 271  92  69  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.126629
 [1] 72
-[1]  40 235  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.010211
+[1] 241 207 264 271  92 292  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.125979
 [1] 73
-[1]  40  71  31 204 285   9
-[1] 1 1 1 1 1 1
-[1] 6.01953
+[1] 241 207 264 271  92 134 255 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.138843
 [1] 74
-[1]  40  71  31 204 285  86
-[1] 1 1 1 1 1 1
-[1] 6.050057
+[1] 241 207 264 271  92 134 292 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.122977
 [1] 75
-[1]  40  71  31 204 285 228
-[1] 1 1 1 1 1 1
-[1] 6.047937
+[1] 241 207 264 271  92 134 224 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.128945
 [1] 76
-[1]  40  71  31 224 285  87
-[1] 1 1 1 1 1 1
-[1] 5.991711
+[1] 241 207 194 271  92 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.127494
 [1] 77
-[1]  40  71  31 287 285  87
-[1] 1 1 1 1 1 1
-[1] 5.992101
+[1] 241 207  81 271  92 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117839
 [1] 78
-[1]  40  71  31 204 217  87
-[1] 1 1 1 1 1 1
-[1] 5.991678
+[1] 241 235  81 271  92 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.119094
 [1] 79
-[1]  40  71  31 204 128  87
-[1] 1 1 1 1 1 1
-[1] 5.992039
+[1] 241  54  81 271  92 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.118831
 [1] 80
-[1]  40  71  31 204 140  87
-[1] 1 1 1 1 1 1
-[1] 5.99464
+[1] 241 187  81 271  92 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117408
 [1] 81
-[1] 172  71  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.990021
+[1] 241 187  81 271  92 134  67 226
+[1] 1 1 1 1 1 1 1 1
+[1] 6.125339
 [1] 82
-[1]  26  71  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.985155
+[1] 241 187  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117203
 [1] 83
-[1] 202  71  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.992652
+[1] 241 187  81 271  92 134  67 101
+[1] 1 1 1 1 1 1 1 1
+[1] 6.131126
 [1] 84
-[1]  26  71   9 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.04725
+[1] 241 187  81 271  92 134  67 249
+[1] 1 1 1 1 1 1 1 1
+[1] 6.122723
 [1] 85
-[1]  26  71 132 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.045498
+[1] 241 187  81  50  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.132885
 [1] 86
-[1]  26  71  19 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.992216
+[1] 241 187  81  74  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.12984
 [1] 87
-[1]  26 164  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.988401
+[1] 241 187  81 271 191 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117257
 [1] 88
-[1]  26  63  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.987863
+[1] 241 187  81 271 143 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.122185
 [1] 89
-[1]  26 245  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.995151
+[1] 241 187  81 271 192 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.123545
 [1] 90
-[1]  26 279  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.997996
+[1] 104 187  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117762
 [1] 91
-[1]  26  71  31 204 285   9
-[1] 1 1 1 1 1 1
-[1] 6.017504
+[1] 188 187  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.118821
 [1] 92
-[1]  26  71  31 204 285  86
-[1] 1 1 1 1 1 1
-[1] 6.050198
+[1]  47 187  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.116615
 [1] 93
-[1]  26  71  31 204 285 228
-[1] 1 1 1 1 1 1
-[1] 6.047933
+[1] 173 187  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117929
 [1] 94
-[1]  26  71  31 127 285  87
-[1] 1 1 1 1 1 1
-[1] 5.985564
+[1] 255 187  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.118531
 [1] 95
-[1]  26  71  31 224 285  87
-[1] 1 1 1 1 1 1
-[1] 5.988135
+[1]  47 187  81 271  92 292  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.139581
 [1] 96
-[1]  26  71  31 287 285  87
-[1] 1 1 1 1 1 1
-[1] 5.988519
+[1]  47 187  81 271  92 134 255  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.135051
 [1] 97
-[1]  26  71  31 204 217  87
-[1] 1 1 1 1 1 1
-[1] 5.989075
+[1]  47 187  81 271  92 134 292  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.12536
 [1] 98
-[1]  26  71  31 204 128  87
-[1] 1 1 1 1 1 1
-[1] 5.989593
+[1]  47 187  81 271  92 134 224  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.132079
 [1] 99
-[1]  26  71  31 204 140  87
-[1] 1 1 1 1 1 1
-[1] 5.992367
+[1]  47 187 194 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.12861
 [1] 100
-[1]  40  71  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.987929
+[1]  47 274  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117748
 [1] 101
-[1]  94  71  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.989122
+[1]  47 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.115961
 [1] 102
-[1] 202  71  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.992652
+[1]  47  57  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.116961
 [1] 103
-[1]  71  31 204 285  87
-[1] 1 1 1 1 1
-[1] 6.046706
+[1]  47 207  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.119383
 [1] 104
-[1]  26  31 204 285  87
-[1] 1 1 1 1 1
-[1] 6.017321
+[1]  47 150  81 271  92 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.118361
 [1] 105
-[1]  26  71 204 285  87
-[1] 1 1 1 1 1
-[1] 6.049269
+[1]  47 150  81 271  92 134  67  53
+[1] 1 1 1 1 1 1 1 1
+[1] 6.199884
 [1] 106
-[1]  26  71  31 204  87
-[1] 1 1 1 1 1
-[1] 6.024615
+[1]  47 150  81 271  92 134  67  46
+[1] 1 1 1 1 1 1 1 1
+[1] 6.140781
 [1] 107
-[1]  26  71  31 204 285
-[1] 1 1 1 1 1
-[1] 6.054041
+[1]  47 150  81  50  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.128823
 [1] 108
-[1]  19  71  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.028372
+[1]  47 150  81  74  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.126398
 [1] 109
-[1]  26  19  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.023262
+[1]  47 150  81 271 191 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.116736
 [1] 110
-[1]  26  71  19 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.992216
+[1]  47 150  81 271 143 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.12082
 [1] 111
-[1]  26  71  31 204  19  87
-[1] 1 1 1 1 1 1
-[1] 6.027776
+[1]  47 150  81 271 192 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.121558
 [1] 112
-[1]  26  71  31 204 285  19
-[1] 1 1 1 1 1 1
-[1] 5.997643
+[1] 295 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.11602
 [1] 113
-[1]  26  71   9 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.04725
+[1] 173 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117351
 [1] 114
-[1]  26  71 132 204 285  87
-[1] 1 1 1 1 1 1
-[1] 6.045498
+[1] 241 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.116784
 [1] 115
-[1]  26  71  19 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.992216
+[1] 104 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117027
 [1] 116
-[1]  26 164  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.988401
+[1] 155 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.11662
 [1] 117
-[1]  26  63  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.987863
+[1]  47 150  81 271  92 292  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.137695
 [1] 118
-[1]  26 245  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.995151
+[1]  47 150  81 271  92 134 292  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.1246
 [1] 119
-[1]  26 279  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.997996
+[1]  47 150  81 271  92 134 224  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.130082
 [1] 120
-[1]  26  71  31 204 285   9
-[1] 1 1 1 1 1 1
-[1] 6.017504
+[1]  47 150 194 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.131505
 [1] 121
-[1]  26  71  31 204 285  86
-[1] 1 1 1 1 1 1
-[1] 6.050198
+[1]  47  57  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.116961
 [1] 122
-[1]  26  71  31 204 285 228
-[1] 1 1 1 1 1 1
-[1] 6.047933
+[1]  47  90  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117756
 [1] 123
-[1]  26  71  31 127 285  87
-[1] 1 1 1 1 1 1
-[1] 5.985564
+[1]  47 187  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.116615
 [1] 124
-[1]  26  71  31 224 285  87
-[1] 1 1 1 1 1 1
-[1] 5.988135
+[1]  47 150  81 271  92 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.118361
 [1] 125
-[1]  26  71  31 287 285  87
-[1] 1 1 1 1 1 1
-[1] 5.988519
+[1]  47 150  81 271  92 134  67  53
+[1] 1 1 1 1 1 1 1 1
+[1] 6.199884
 [1] 126
-[1]  26  71  31 204 217  87
-[1] 1 1 1 1 1 1
-[1] 5.989075
+[1]  47 150  81 271  92 134  67  46
+[1] 1 1 1 1 1 1 1 1
+[1] 6.140781
 [1] 127
-[1]  26  71  31 204 128  87
-[1] 1 1 1 1 1 1
-[1] 5.989593
+[1]  47 150  81  50  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.128823
 [1] 128
-[1]  26  71  31 204 140  87
-[1] 1 1 1 1 1 1
-[1] 5.992367
+[1]  47 150  81  74  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.126398
 [1] 129
-[1]  40  71  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.987929
+[1]  47 150  81 271 191 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.116736
 [1] 130
-[1]  94  71  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.989122
+[1]  47 150  81 271 143 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.12082
 [1] 131
-[1] 202  71  31 204 285  87
-[1] 1 1 1 1 1 1
-[1] 5.992652
+[1]  47 150  81 271 192 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.121558
 [1] 132
-[1]  71  31 204 285  87
-[1] 1 1 1 1 1
-[1] 6.046706
+[1] 295 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.11602
 [1] 133
-[1]  26  31 204 285  87
-[1] 1 1 1 1 1
-[1] 6.017321
+[1] 173 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117351
 [1] 134
-[1]  26  71 204 285  87
-[1] 1 1 1 1 1
-[1] 6.049269
+[1] 241 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.116784
 [1] 135
-[1]  26  71  31 204  87
-[1] 1 1 1 1 1
-[1] 6.024615
+[1] 104 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117027
 [1] 136
-[1]  26  71  31 204 285
-[1] 1 1 1 1 1
-[1] 6.054041
-=======
-[1] "fit thinplate 2D 5.94718679575301"
-[1] "fit thinplate 2D 5.94222155503818"
-[1] "move ***********************************"
-[1] "fit thinplate 2D 6.2533261016553"
-[1] "fit thinplate 2D 5.96020508023625"
-[1] "Adding knot..."
-[1] "fit thinplate 2D 5.95139961539112"
-[1] "******************************************************************************"
-[1] "Moving knot..."
-[1] "******************************************************************************"
-[1] "fit thinplate 2D 5.94282134139464"
-[1] "fit thinplate 2D 5.94536297442796"
-[1] "fit thinplate 2D 6.25179202176993"
-[1] "fit thinplate 2D 5.95838762585899"
-[1] "Adding knot..."
-[1] "fit thinplate 2D 5.95131019271276"
-[1] "Improving..."
-[1] "******************************************************************************"
-[1] "new version"
-[1] "fit thinplate 2D 5.94289480611401"
-[1] "fit thinplate 2D 5.95197558539559"
-[1] "fit thinplate 2D 5.95044602843302"
-[1] "fit thinplate 2D 5.94850818747891"
-[1] "fit thinplate 2D 5.96473469279106"
-[1] "fit thinplate 2D 5.94284439993936"
-[1] "fit thinplate 2D 5.9429680655426"
-[1] "fit thinplate 2D 5.94186152087725"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.94230988764671"
-[1] "fit thinplate 2D 5.94321024247023"
-[1] "fit thinplate 2D 5.94213032312068"
-[1] "fit thinplate 2D 5.95039784609945"
-[1] "fit thinplate 2D 5.94455439335751"
-[1] "fit thinplate 2D 5.94239424926729"
-[1] "fit thinplate 2D 5.94365508152527"
-[1] "fit thinplate 2D 5.93927293382572"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.94580418359179"
-[1] "fit thinplate 2D 5.94648307855947"
-[1] "fit thinplate 2D 5.94174258691772"
-[1] "new version"
-[1] "fit thinplate 2D 5.94050822145563"
-[1] "fit thinplate 2D 5.95475112581171"
-[1] "fit thinplate 2D 5.9531877419394"
-[1] "fit thinplate 2D 5.94689979795015"
-[1] "fit thinplate 2D 5.96699235118915"
-[1] "fit thinplate 2D 5.94146076696302"
-[1] "fit thinplate 2D 5.94939943765299"
-[1] "fit thinplate 2D 5.94941195037452"
-[1] "fit thinplate 2D 5.93937391462686"
-[1] "fit thinplate 2D 5.93943682864446"
-[1] "fit thinplate 2D 5.96061051444015"
-[1] "fit thinplate 2D 5.94644496876075"
-[1] "fit thinplate 2D 5.93978144350898"
-[1] "fit thinplate 2D 5.94186152087725"
-[1] "fit thinplate 2D 5.94174258691772"
-[1] "fit thinplate 2D 5.93780190893727"
-[1] "improve *************************************"
-[1] "fit thinplate 2D 5.94153914736363"
-[1] "fit thinplate 2D 5.9393222251352"
-[1] "new version"
-[1] "fit thinplate 2D 5.93875527919017"
-[1] "fit thinplate 2D 5.95367476480513"
-[1] "fit thinplate 2D 5.95207007905688"
-[1] "fit thinplate 2D 5.94560430099651"
-[1] "fit thinplate 2D 5.96673817519989"
-[1] "fit thinplate 2D 5.93961168321299"
-[1] "fit thinplate 2D 5.94787638911299"
-[1] "fit thinplate 2D 5.94784046701602"
-[1] "fit thinplate 2D 5.93826495278479"
-[1] "fit thinplate 2D 5.93817023346092"
-[1] "fit thinplate 2D 5.960362571226"
-[1] "fit thinplate 2D 5.94432179830876"
-[1] "fit thinplate 2D 5.93837048401649"
-[1] "fit thinplate 2D 5.93851330880234"
-[1] "fit thinplate 2D 5.93927293382572"
-[1] "fit thinplate 2D 5.9393222251352"
-[1] "fit thinplate 2D 5.93821575477038"
-[1] "fit thinplate 2D 5.94278858171561"
-[1] "******************************************************************************"
-[1] "Exchanging..."
-[1] "******************************************************************************"
-[1] "******************************************************************************"
-[1] "Moving knot..."
-[1] "******************************************************************************"
-[1] "fit thinplate 2D 5.94100577753994"
-[1] "fit thinplate 2D 5.93826495278479"
-[1] "fit thinplate 2D 6.23225361949207"
-[1] "fit thinplate 2D 5.96169784344586"
-[1] "Adding knot..."
-[1] "fit thinplate 2D 5.94873831961545"
-[1] "Improving..."
-[1] "******************************************************************************"
-[1] "new version"
-[1] "fit thinplate 2D 5.93875527919017"
-[1] "fit thinplate 2D 5.95367476480513"
-[1] "fit thinplate 2D 5.95207007905688"
-[1] "fit thinplate 2D 5.94560430099651"
-[1] "fit thinplate 2D 5.96673817519989"
-[1] "fit thinplate 2D 5.93961168321299"
-[1] "fit thinplate 2D 5.94787638911299"
-[1] "fit thinplate 2D 5.94784046701602"
-[1] "fit thinplate 2D 5.93826495278479"
-[1] "fit thinplate 2D 5.93817023346092"
-[1] "fit thinplate 2D 5.960362571226"
-[1] "fit thinplate 2D 5.94432179830876"
-[1] "fit thinplate 2D 5.93837048401649"
-[1] "fit thinplate 2D 5.93851330880234"
-[1] "fit thinplate 2D 5.93927293382572"
-[1] "fit thinplate 2D 5.9393222251352"
-[1] "fit thinplate 2D 5.93821575477038"
-[1] "fit thinplate 2D 5.94278858171561"
-[1] "And we're done..."
->>>>>>> 5483e94... Add extra MSE measures and count of model fits to all test cases
+[1] 155 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.11662
+[1] 137
+[1]  47 150  81 271  92 292  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.137695
+[1] 138
+[1] 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1
+[1] 6.125934
+[1] 139
+[1]  47  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1
+[1] 6.175946
+[1] 140
+[1]  47 150 271  92 134  67  69
+[1] 1 1 1 1 1 1 1
+[1] 6.346158
+[1] 141
+[1]  47 150  81  92 134  67  69
+[1] 1 1 1 1 1 1 1
+[1] 6.197828
+[1] 142
+[1]  47 150  81 271 134  67  69
+[1] 1 1 1 1 1 1 1
+[1] 6.260186
+[1] 143
+[1]  47 150  81 271  92  67  69
+[1] 1 1 1 1 1 1 1
+[1] 6.202247
+[1] 144
+[1]  47 150  81 271  92 134  69
+[1] 1 1 1 1 1 1 1
+[1] 6.204358
+[1] 145
+[1]  47 150  81 271  92 134  67
+[1] 1 1 1 1 1 1 1
+[1] 6.199107
+[1] 146
+[1] 255 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.118279
+[1] 147
+[1]  47 255  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.173395
+[1] 148
+[1]  47 150  81 255  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.197408
+[1] 149
+[1]  47 150  81 271 255 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.258972
+[1] 150
+[1]  47 150  81 271  92 134  67  69 255
+[1] 1 1 1 1 1 1 1 1 1
+[1] 6.119491
+[1] 151
+[1]  47 150  81 271  92 134 292  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.1246
+[1] 152
+[1]  47 150  81 271  92 134 224  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.130082
+[1] 153
+[1]  47 150 194 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.131505
+[1] 154
+[1]  47  57  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.116961
+[1] 155
+[1]  47  90  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117756
+[1] 156
+[1]  47 187  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.116615
+[1] 157
+[1]  47 150  81 271  92 134  67 193
+[1] 1 1 1 1 1 1 1 1
+[1] 6.118361
+[1] 158
+[1]  47 150  81 271  92 134  67  53
+[1] 1 1 1 1 1 1 1 1
+[1] 6.199884
+[1] 159
+[1]  47 150  81 271  92 134  67  46
+[1] 1 1 1 1 1 1 1 1
+[1] 6.140781
+[1] 160
+[1]  47 150  81  50  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.128823
+[1] 161
+[1]  47 150  81  74  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.126398
+[1] 162
+[1]  47 150  81 271 191 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.116736
+[1] 163
+[1]  47 150  81 271 143 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.12082
+[1] 164
+[1]  47 150  81 271 192 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.121558
+[1] 165
+[1] 295 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.11602
+[1] 166
+[1] 173 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117351
+[1] 167
+[1] 241 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.116784
+[1] 168
+[1] 104 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.117027
+[1] 169
+[1] 155 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.11662
+[1] 170
+[1]  47 150  81 271  92 292  67  69
+[1] 1 1 1 1 1 1 1 1
+[1] 6.137695
+[1] 171
+[1] 150  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1
+[1] 6.125934
+[1] 172
+[1]  47  81 271  92 134  67  69
+[1] 1 1 1 1 1 1 1
+[1] 6.175946
+[1] 173
+[1]  47 150 271  92 134  67  69
+[1] 1 1 1 1 1 1 1
+[1] 6.346158
+[1] 174
+[1]  47 150  81  92 134  67  69
+[1] 1 1 1 1 1 1 1
+[1] 6.197828
+[1] 175
+[1]  47 150  81 271 134  67  69
+[1] 1 1 1 1 1 1 1
+[1] 6.260186
+[1] 176
+[1]  47 150  81 271  92  67  69
+[1] 1 1 1 1 1 1 1
+[1] 6.202247
+[1] 177
+[1]  47 150  81 271  92 134  69
+[1] 1 1 1 1 1 1 1
+[1] 6.204358
+[1] 178
+[1]  47 150  81 271  92 134  67
+[1] 1 1 1 1 1 1 1
+[1] 6.199107
 [1] "a = 0"
 [1] "******************************************************************************"
 [1] "Initialising..."
 [1] "******************************************************************************"
 [1] "Initialising model..."
-<<<<<<< HEAD
-[1] "fit thinplate 2D 5.98515541219794"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.1159605769456"
 [1] "Initial model fitted..."
 [1] "Fitting Initial Radii"
-[1] "fit thinplate 2D 5.98577817024784"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 5.98604865454638"
-[1] "fit thinplate 2D 6.02042354286107"
-[1] "fit thinplate 2D 6.03194375133964"
-[1] "fit thinplate 2D 5.98830149569627"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 10000005.9851554"
-[1] "fit thinplate 2D 5.99043978629383"
-[1] "fit thinplate 2D 6.05141215179708"
-[1] "fit thinplate 2D 6.04190600753121"
-=======
-[1] "fit thinplate 2D 5.93780190893727"
-[1] "Initial model fitted..."
-[1] "Fitting Initial Radii"
-[1] "fit thinplate 2D 5.96415726864679"
-[1] "fit thinplate 2D 5.94431800097001"
-[1] "fit thinplate 2D 5.93778431095933"
-[1] "fit thinplate 2D 5.93670467012417"
-[1] "fit thinplate 2D 10000005.9367047"
-[1] "fit thinplate 2D 5.96096154202674"
-[1] "fit thinplate 2D 10000005.9367047"
-[1] "fit thinplate 2D 10000005.9367047"
-[1] "fit thinplate 2D 10000005.9367047"
-[1] "fit thinplate 2D 10000005.9367047"
-[1] "fit thinplate 2D 5.94340077883491"
-[1] "fit thinplate 2D 10000005.9367047"
-[1] "fit thinplate 2D 5.95921218074415"
-[1] "fit thinplate 2D 10000005.9367047"
-[1] "fit thinplate 2D 5.94053515283618"
-[1] "fit thinplate 2D 10000005.9367047"
->>>>>>> 5483e94... Add extra MSE measures and count of model fits to all test cases
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12058679990173"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12276800504175"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.17989096286043"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.15744923606268"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.12829333745123"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.19441262353661"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.20358368127791"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.20556269677807"
+[1] "test_cases"
+[1] "fit thinplate 2D 6.20153033213626"
+[1] "test_cases"
+[1] "fit thinplate 2D 10000006.1159606"
 [1] "initialising complete"
