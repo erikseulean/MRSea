@@ -336,7 +336,7 @@ code > span.fu { color: #900; font-weight: bold; }  code > span.er { color: #a61
 <a class="sourceLine" id="cb3-10" title="10">)</a></code></pre></div>
 <div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb4-1" title="1"><span class="co"># run SALSA</span></a>
 <a class="sourceLine" id="cb4-2" title="2"><span class="kw">set.seed</span>(<span class="dv">1234</span>)</a>
-<a class="sourceLine" id="cb4-3" title="3">salsa1dOutput &lt;-<span class="st"> </span><span class="kw">runSALSA1D</span>(initialModel, salsa1dlist, <span class="kw">c</span>(<span class="st">&quot;depth&quot;</span>), <span class="dt">predictionData=</span>predictData, <span class="dt">datain=</span>data,<span class="dt">removal=</span><span class="ot">TRUE</span>)</a></code></pre></div>
+<a class="sourceLine" id="cb4-3" title="3">salsa1dOutput &lt;-<span class="st"> </span><span class="kw">runSALSA1D</span>(initialModel, salsa1dlist, <span class="kw">c</span>(<span class="st">&quot;depth&quot;</span>), <span class="dt">predictionData=</span>predictData, <span class="dt">datain=</span>data,<span class="dt">removal=</span><span class="ot">TRUE</span>, <span class="dt">suppress.printout=</span><span class="ot">TRUE</span>)</a></code></pre></div>
 <p>Number of knots selected for depth: 1 this should be 1.</p>
 <p>Location of knot selected for depth: -11.3975 this should be -11.3975.</p>
 </div>
